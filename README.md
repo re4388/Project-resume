@@ -32,7 +32,9 @@ auto-account.py
 ## 第三部分 有關AI
 
 get-google-image.py
+
 get-face-image.py
+
 CNN to face identification.py
 
     這個程式分成三個部分
