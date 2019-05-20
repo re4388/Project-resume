@@ -62,7 +62,7 @@ class CalcFrame(MyFrame1):  # inheritace from square module
 
     def mySquare(self, event):  # 定義事件處理函數
         # API KEY, this can't show to other
-        API_KEY = "AIzaSyAC-FcgSRW1P4PN2Xv0WOgeipLNYuOOBn0"
+        API_KEY = "put your google goelocate API here"
 
         # api-endpoint 
         URL = "https://www.googleapis.com/geolocation/v1/geolocate?key=" + API_KEY
@@ -95,5 +95,5 @@ frame = CalcFrame(None)
 frame.Show(True)
 
 
-# 主循环
+# main loop
 app.MainLoop()
