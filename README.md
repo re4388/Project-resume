@@ -44,7 +44,7 @@ nccu-svm.py
 
     政大資料學習課程，試做Support Vector Machine, sklearn, 就三種不同的花類進行分類
 
-NN-learning.m
+NN-learning 資料夾
 
     Standford Andrew NG ML course
     學著在low-level建立神經網路模型
