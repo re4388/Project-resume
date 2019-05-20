@@ -1,11 +1,11 @@
 # 作品
 
-以下是我的部分作品，希望您可以透過我的作品，更瞭解我:)
+希望您可以透過我的作品，更瞭解我:)
 
 ## 第一部分 視覺化
 
-使用JavaScript透過瀏覽器展現作品，是非常方便的。
-尤其是一些特殊的數學模型的視覺化，透過動態改變參數的變化，除了結果往往充滿美感外，自我編寫的過程，也往往讓我更瞭解這些模型。
+使用JavaScript展現作品非常方便。
+尤其是模型的視覺化，透過動態改變參數，視覺化結果讓人驚奇外，自我編程也讓我更深入瞭解模型。
 
 SuperShape
 <https://www.openprocessing.org/sketch/638486>
@@ -23,11 +23,13 @@ The Lorenz Attractor
 
 place_gui_v2.py
 
-    調用Google Map API，自動搜尋家裡附近，包裝為exe檔方便執行
+    調用Google Map API，自動搜尋住址附近，包裝為exe檔方便執行。
+    用法：點擊exe檔案 => 輸入想要查詢字串(譬如，小吃店) => Enter
 
 auto-account.py
 
     記帳系統，點兩下執行檔，輸入金額和項目，自動存入預定的雲端excel檔案。
+    用法：點擊exe檔案 => 輸入金額 => Enter => 輸入項目 => Enter
 
 ## 第三部分 有關AI
 
@@ -44,10 +46,11 @@ CNN to face identification.py
 
 nccu-svm.py
 
-    政大資料學習課程，試做Support Vector Machine, sklearn, 就三種不同的花類進行分類
+    政大資料學習課程
+    試做Support Vector Machine, sklearn, 就三種不同的花類進行分類
 
 NN-learning 資料夾
 
-    Standford Andrew NG ML course
+    Standford Andrew NG ML course課程
     學著在low-level建立神經網路模型
     語言用Octave/Mathlab
