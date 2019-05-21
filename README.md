@@ -1,8 +1,8 @@
-# 作品
+# Small Projects
 
-希望您可以透過我的作品，更瞭解我:)
+You will know more about me by seeing what I like to make.
 
-## 第一部分 視覺化
+## Fist part model visualization
 
 使用JavaScript展現作品非常方便。
 尤其是模型的視覺化，透過動態改變參數，視覺化結果讓人驚奇外，自我編程也讓我更深入瞭解模型。
@@ -19,7 +19,7 @@ superellipes2D
 The Lorenz Attractor
 <https://www.openprocessing.org/sketch/623127>
 
-## 第2部分  Python小程式
+## Second Part  Python toy program
 
 place_gui_v2.py
 
@@ -31,7 +31,7 @@ auto-account.py
     記帳系統，點兩下執行檔，輸入金額和項目，自動存入預定的雲端excel檔案。
     用法：點擊exe檔案 => 輸入金額 => Enter => 輸入項目 => Enter
 
-## Part3 資料科學
+## Part3 Data Science
 
 get-google-image.py
 
