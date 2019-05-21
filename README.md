@@ -31,7 +31,7 @@ auto-account.py
     記帳系統，點兩下執行檔，輸入金額和項目，自動存入預定的雲端excel檔案。
     用法：點擊exe檔案 => 輸入金額 => Enter => 輸入項目 => Enter
 
-## 第三部分 有關AI
+## Part3 資料科學
 
 get-google-image.py
 
