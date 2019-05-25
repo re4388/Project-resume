@@ -31,10 +31,11 @@ auto-account.py
     記帳系統，點兩下執行檔，輸入金額和項目，自動存入預定的雲端excel檔案。
     用法：點擊exe檔案 => 輸入金額 => Enter => 輸入項目 => Enter
 
+## Front End
 
-## Front End 
 Folder: Electro-vue desktop weather app
-    查詢最近三天的天氣
+
+    輸入城市，查詢近三日天氣
 
 ## Data Science
 
