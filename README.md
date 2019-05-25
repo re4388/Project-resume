@@ -36,6 +36,7 @@ auto-account.py
 Folder: Electro-vue desktop weather app
 
     輸入城市，查詢近三日天氣
+    （I've used an electron-vue boilerplate by Natalia Tepluhina）
 
 ## Data Science
 
