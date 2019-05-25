@@ -2,7 +2,7 @@
 
 You will know more about me by seeing what I like to make.
 
-## Fist part model visualization
+## Visualization
 
 使用JavaScript展現作品非常方便。
 尤其是模型的視覺化，透過動態改變參數，視覺化結果讓人驚奇外，自我編程也讓我更深入瞭解模型。
@@ -19,7 +19,7 @@ superellipes2D
 The Lorenz Attractor
 <https://www.openprocessing.org/sketch/623127>
 
-## Second Part  Python toy program
+## Python toy program
 
 place_gui_v2.py
 
@@ -31,7 +31,12 @@ auto-account.py
     記帳系統，點兩下執行檔，輸入金額和項目，自動存入預定的雲端excel檔案。
     用法：點擊exe檔案 => 輸入金額 => Enter => 輸入項目 => Enter
 
-## Part3 Data Science
+
+## Front End 
+Folder: Electro-vue desktop weather app
+    查詢最近三天的天氣
+
+## Data Science
 
 get-google-image.py
 
@@ -49,7 +54,7 @@ nccu-svm.py
     政大資料學習課程
     試做Support Vector Machine, sklearn, 就三種不同的花類進行分類
 
-NN-learning 資料夾
+Folder: NN-learning 
 
     Standford Andrew NG ML course課程
     學著在low-level建立神經網路模型
