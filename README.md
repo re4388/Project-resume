@@ -62,5 +62,5 @@ Folder: NN-learning
 
     Standford Andrew NG ML course課程
     學著在low-level建立神經網路模型
-    語言用Octave/Mathlab
+    語言用Octave
 
