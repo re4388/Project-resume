@@ -64,3 +64,6 @@ Folder: NN-learning
     學著在low-level建立神經網路模型
     語言用Octave
 
+Fast-ai CNN fast build: Beauty or not
+    
+    [Fast-ai CNN fast build](https://github.com/re4388/beauty-classfier-fastai-render)
